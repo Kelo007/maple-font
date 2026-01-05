@@ -7,7 +7,7 @@
   "ttfautohint_param": {},
   "github_mirror": "github.com",
   "infinite_arrow": null,
-  "remove_tag_liga": false,
+  "remove_tag_liga": true,
   "weight_mapping": {
     "thin": 100,
     "extralight": 200,
